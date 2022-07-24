@@ -1,1 +1,1 @@
-## ApA Node JS Application to perform a CRUD with Sequelize integration.
+## App Node JS Application to perform a CRUD with Sequelize integration.
